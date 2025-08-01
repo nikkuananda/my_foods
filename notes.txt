@@ -1,0 +1,5 @@
+// initial setup project
+// fitur login dan halaman login
+// halaman daftar makanan + API
+// detail makanan + form edit
+// final polish dan styling
